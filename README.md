@@ -16,6 +16,7 @@ Installation
 Clone the repository:
 
 git clone https://github.com/yourusername/magnificent-digit-recognizer.git
+
 cd magnificent-digit-recognizer
 
 Install dependencies:
