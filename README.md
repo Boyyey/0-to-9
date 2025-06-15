@@ -14,13 +14,16 @@ Features
 Installation
 
 Clone the repository:
+
 git clone https://github.com/yourusername/magnificent-digit-recognizer.git
 cd magnificent-digit-recognizer
 
 Install dependencies:
+
 pip install -r requirements.txt
 
 Run the app:
+
 python digit_gui.py
 
 Usage
